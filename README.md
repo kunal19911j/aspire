@@ -29,4 +29,4 @@ Please Note:- Dependencies are downloaded from maven
 - Update and save aspire/src/main/java/properties/RuntimeProp.java file as required
 - Execute aspire/src/test/java/tests/ValidateManufacturingOrder.java as testng test
 
-Please Note:- Execution steps are showcased in execution.
+Please Note:- Execution steps are showcased in aspire/aspire_execution.mp4 file
